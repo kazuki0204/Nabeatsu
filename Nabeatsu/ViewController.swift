@@ -84,7 +84,7 @@ class ViewController: UIViewController {
         countLabel.text = String(number)
         
         if isGod() == true{
-            faceLabel.text = "😇"
+            faceLabel.text = "🤮🤮"
             
         } else if isAho() == true {
             
